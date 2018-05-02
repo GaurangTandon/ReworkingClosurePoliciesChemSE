@@ -9,5 +9,6 @@ This repo currently has three files:
 3. "Origins of The Homework Policy": a short background on what led to us having the homework policy in the first place.
 
 What is most important in all of these is **your feedback**.
-Please do drop by and discuss/contriute by raising a new issue for a new topic.
-Also cite the line number/heading in the corresponding document.
+Please do drop by and discuss/contriute by raising a new issue for a new topic. (citing the line number/heading in the corresponding document, as apt)
+Also, in case of minor phrasal changes/grammatical improvements, as long as they don't change the origninal meaning, feel free to drop a pull request.
+The moderators Martin and orthocresol have mod powers on this repo as well (as "Collaborators").
