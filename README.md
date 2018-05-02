@@ -12,8 +12,11 @@ What is most important in all of these is:
 
 # **Your Feedback**
 
-- Please do drop by and discuss/contriute by raising a new issue for a new topic. (citing the line number/heading in the corresponding document, as apt)
-- in case of minor phrasal changes/grammatical improvements, as long as they don't change the origninal meaning, feel free to drop a pull request.
+- discuss/contriute by raising a new issue for a new topic. (citing the line number/heading in the corresponding document, as apt)
+- in case of minor phrasal changes/grammatical improvements, as long as they don't change the origninal meaning, feel free to make a pull request.
+- also use GitHub emojis (thumbs up/down) to express agreement/disagreement to other suggestions
+
+All of this would help us reach complete consensus.
 
 ---
 
