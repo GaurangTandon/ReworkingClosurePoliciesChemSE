@@ -20,4 +20,4 @@ All of this would help us reach complete consensus.
 
 ---
 
-PS: The moderators Martin and orthocresol have mod powers on this repo as well (as "Collaborators").
+PS: Martin and orthocresol have mod powers on this repo as well (as "Collaborators").
