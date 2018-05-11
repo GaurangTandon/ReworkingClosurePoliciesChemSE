@@ -94,16 +94,9 @@ Moreover, fixing MathJax /formatting is an important issue. **If you are incline
 
 ### Please don't VTC because a question's easy and got answered in comments
 
-[It happens quite frequently.](https://chat.stackexchange.com/transcript/message/43872590#43872590)
+[It happens frequently.](https://chat.stackexchange.com/transcript/message/43872590#43872590)
 
-This may appear nice to some, after all, you helped the OP get the solution even if their question did not belong to our site. However, this has quite a few bad implications: 
-
-1. users will assume that even if they post poorly formatted questions, it would get answered by someone
-2. users' content won't produce any future value, as it will be Roomba'ed days later
-3. users might face an unsuspecting question ban (they don't really know a question ban exists until they actually face it)
-4. if we spend five minutes writing a 400-word comment to a question, why not spend five more minutes and write an 800 word answer to their query?
-
-So, if you're inclined to put a close vote for this reason, please don't! Instead, bookmark that question, and write an answer later.
+OP's easy question first receives two-three comments pointing them in the right direction. And then the homework CVs, etc. start being applied to that question, as discussed in the main post above. So, if you're inclined to put a close vote for this reason, please don't. Instead, bookmark that question, and write an answer later. And do vote Leave Open.
 
 ### Short questions and low effort questions: correlation, but not a causality
   
