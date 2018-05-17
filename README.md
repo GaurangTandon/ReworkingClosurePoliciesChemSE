@@ -4,9 +4,11 @@ There have already been calls to summarize our close reasons and lay them out ob
 
 This repo currently has three files:
 
-1. "Reworking off-topic closure policies": which is a complete containment of all problems with homework, what to do with it, and all other points interconnected with it.
-2. "What effort do I need to do before asking a question?": a new proposed Chem.SE meta post that lays out objective criterion for new users in case they've difficulty showing effort
-3. "Origins of The Homework Policy": a short background on what led to us having the homework policy in the first place.
+1. "Reworking off-topic closure policies" (main policy document): is a complete containment of the main problems with homework, what to do with it, and all other points interconnected with it.
+2. "Related ideas": which has all tangential ideas about our closing in general. A good read.
+3. "Ideas that need discussion": policies that we still haven't got a good consensus about, and it would be good to sort them out soon after we sort out our homework policy.
+4. "What effort do I need to do before asking a question?": a new proposed Chem.SE meta post that lays out objective criterion for new users in case they've difficulty showing effort
+5. "Origins of The Homework Policy": a short background on what led to us having the homework policy in the first place.
 
 What is most important in all of these is:
 
