@@ -59,3 +59,17 @@ Last policy discussion was [in '16](https://chemistry.meta.stackexchange.com/que
 1. third custom close reason: plain straightforward data mining requests are off-topic. (similar to that on German.SE, dictionary/thesaurus requests are offtopic)
 2. a reference wiki post on our main site on where to look for different types of data (acidity tables/etc.) (which we should also cite in our custom close reason in point 1)
 3. However, if the question has **some genuine premises** (as was the case in [this question](https://chemistry.stackexchange.com/questions/92507/a-basic-question-about-tetramethylammonium-hydroxide), or as described in [andselisk's answer](https://chemistry.meta.stackexchange.com/a/3875)), which cannot be helped by the reference wiki post we would have on our main site, we shouldn't close them as data mining off topic.
+
+### **Sources we consider credible (that we expect readers to check out before asking a question)**
+
+Of course, no source can be 100% credible (not even our own site), but based on factors like readership, moderation activity, we can expect the following sources to be reliable:
+
+1. LibreTexts
+2. ChemGuide
+3. Any research paper published in Wiley/Elsevier/Nature/other popular publishing houses
+4. add more?
+
+The following are disputed as reliable sources:
+
+1. Quora: especially as it is just forum site, so, the knowledge that's on that site must originate from another original paper/article/etc. It's probably better to look for that original paper instead. Also, its content is locked behind a signup-wall.
+2. Meritnation/askIITians or other flourishing Indian coaching websites
